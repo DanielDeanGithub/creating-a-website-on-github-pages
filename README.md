@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # Creating a Website on GitHub Pages
-
-#### Objective provided by Codecademy:
 
 **Put your work online using GitHub Pages – no command line required!**
 
